@@ -1,0 +1,35 @@
+Wrapper Based Extraction Idea:
+
+IMDB movies list (4000+): http://www.imdb.com/list/ls032600534/?sort=list_order,asc&st_dt=&mode=detail&page=1
+Movies Reviews: http://www.metacritic.com/, https://www.rottentomatoes.com/
+Movies DB info: https://www.the-numbers.com/movies/#tab=letter
+
+
+Web Tools for Scraping:
+-General tools
+http://opensourceforu.com/2015/03/python-requests-interacting-with-the-web-made-easy/
+-Python scrappy and beautiful soup https://docs.scrapy.org/en/latest/intro/overview.html
+-Selenium http://selenium-python.readthedocs.io/
+
+
+
+IMDB Movies List Wrapper Info:
+-Elements are a part of a div with class "lister-list"
+-Each element is of type class "lister-item mode-detail"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
