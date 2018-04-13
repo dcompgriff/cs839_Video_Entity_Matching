@@ -81,7 +81,8 @@ the linear regression has highest precision and recall.
 having a progress bar (like with the regular blocker) would be nice so that a user can gauge how long it will 
 take to run the debugging phase. (We were running it initially with 10,956,134 tuple pairs)
 13) The AttrEqBlocker doesn't seem to work for us on our tables when matching equivalence of years.
-
+14) ADD AN OPTION TO LOAD A LIST OF LABELS FROM A FILE!!!!! Generate the metadata for the new column
+automatically for the user so I don't have to use the UI tool for labeling a sample.
 
 
 
