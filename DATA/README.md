@@ -13,3 +13,5 @@ The two tables with the IDs for tuples are stored in the files imdb2.csv and the
   -The attributes store the same information as in imdb2.csv except missing values for columns like stars(i.e actors) , description etc
   
  </p>
+ 
+ <b>G.csv</b> - file that lists all tuple pairs in the sample taken, together with the labels, one label per each tuple pair
